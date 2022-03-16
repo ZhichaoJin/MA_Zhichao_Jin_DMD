@@ -4,9 +4,9 @@ Bewertung von DMD-Methoden zur Analyse von Strömungsfeldern in Radialventilator
 #order of use:
 1. create_snapshotbase (snapshots file)
 2. FFT
+
   2.1 FFT
   2.2 FFT_whole_area(FFT mode plot)
-4. 
 
 #3.standard DMD
   3.1 SVD ( choose r in file SVD mit opt Treshhold)
